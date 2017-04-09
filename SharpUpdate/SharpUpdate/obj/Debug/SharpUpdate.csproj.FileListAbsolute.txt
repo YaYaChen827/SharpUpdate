@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Beginner\Tutorials\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Beginner\Tutorials\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Beginner\Tutorials\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Beginner\Tutorials\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Beginner\Tutorials\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.pdb
